@@ -19,10 +19,10 @@ If you do not have mongodb, you can get it from [https://www.mongodb.com/docs/ma
 From your command line:
 ```bash
 # Clone this repository
-git clone https://github.com/HimanthReddyGurram/Blog.git
+git clone https://github.com/HimanthReddyGurram/authenticationSecurity.git
 
 # Go into the repository
-$ cd Blog.git
+$ cd authenticationSecurity.git
 
 # Install dependencies
 npm install
