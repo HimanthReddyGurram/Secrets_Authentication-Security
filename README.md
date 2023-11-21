@@ -1,7 +1,6 @@
 # authenticationSecurity
 A website which shows secrets of a community only when a user is registered with the website(community).
 (This website has a backend so the data doesnot get lost when refreshing websites or servers.)
-(Node.js,Express.js,MongoDB,MOngoose)
 
 ## Technologies
 * Javascript
