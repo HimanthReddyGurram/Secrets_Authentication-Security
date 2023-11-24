@@ -1,4 +1,4 @@
-# authenticationSecurity
+# Community Secrets (Authentication and Security)
 A website which shows secrets of a community only when a user is registered with the website(community).
 (This website has a backend so the data doesnot get lost when refreshing websites or servers.)
 
@@ -16,13 +16,15 @@ Start your mongoDB process on some terminal preferably Hyper.
 
 If you do not have mongodb, you can get it from [https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
 
+If you want to start working on your own project,consider following the below commands:
+
 From your command line:
 ```bash
 # Clone this repository
-git clone https://github.com/HimanthReddyGurram/authenticationSecurity.git
+git clone https://github.com/HimanthReddyGurram/Secrets_Authentication-Security.git
 
 # Go into the repository
-$ cd authenticationSecurity.git
+$ cd Secrets_Authentication-Security.git
 
 # Install dependencies
 npm install
